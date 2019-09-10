@@ -5,7 +5,7 @@
 
 ## Objective 
 
-A visual dashboard made with poltly.js to depict the species and concetration of bacteria on the bellybutton of 200 samples. 
+A visual dashboard made with poltly.js to depict the species and concentration of bacteria on the bellybutton of 200 samples. 
 
 
 ## Technologies 
